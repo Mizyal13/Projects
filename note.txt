@@ -1,0 +1,2 @@
+register
+tambahkan role "admin" pada form-data untuk register sebagai admin
